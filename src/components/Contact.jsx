@@ -55,33 +55,33 @@ const Contact = () => {
           <div className="flex flex-col space-y-5 text-lg md:text-xl font-semibold">
             <div className="flex items-center gap-3">
               <FaLocationDot className="text-[#fe5617]" size={20} />
-              <span>Pondicherry</span>
+              <span>Chennai</span>
             </div>
             <div className="flex items-center gap-3">
               <FaPhoneAlt className="text-[#fe5617]" size={20} />
-              <span>9092595881</span>
+              <span>8939060803</span>
             </div>
             <div className="flex items-center gap-3">
               <FaEnvelope className="text-[#fe5617]" size={20} />
-              <span>immucoder@gmail.com</span>
+              <span>vinobaskar003@gmail.com</span>
             </div>
             <div className="flex flex-col items-center gap-3">
               <h2 className="text-xl font-bold">Follow on</h2>
               <div className="flex gap-4">
                 <a
-                  href="https://github.com/AMOHAMMEDIMRAN"
+                  href="https://www.github.com/vinothini0010"
                   className="hover:text-[#fe5617]"
                 >
                   <FaGithub size={29} />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/mohammedimrana/"
+                  href="https://www.linkedin.com/in/vinothini-baskar-2a9357284"
                   className="hover:text-[#fe5617]"
                 >
                   <FaLinkedin size={29} />
                 </a>
                 <a
-                  href="https://www.instagram.com/immucoder/?__pwa=1"
+                 // href="https://www.instagram.com/immucoder/?__pwa=1"
                   className="hover:text-[#fe5617]"
                 >
                   <FaInstagram size={29} />

@@ -12,7 +12,7 @@ const Header = () => {
         {/* Logo */}
         <div>
           <h1 className="text-[2.5rem] font-bold text-[#000] hover:text-[#fe5617] ">
-            Imran.
+            Vino.
           </h1>
         </div>
 
@@ -60,19 +60,19 @@ const Header = () => {
             } lg:hidden mt-3 flex justify-center gap-5`}
           >
             <a
-              href="https://github.com/AMOHAMMEDIMRAN"
+              href="https://www.github.com/vinothini0010"
               className="  hover:text-[#fe5617] "
             >
               <FaGithub size={29} />
             </a>
             <a
-              href="https://www.linkedin.com/in/mohammedimrana/"
+              href="https://www.linkedin.com/in/vinothini-baskar-2a9357284"
               className="hover:text-[#fe5617]"
             >
               <FaLinkedin size={29} />
             </a>
             <a
-              href="https://www.instagram.com/immucoder/?__pwa=1"
+              //href="https://www.instagram.com/immucoder/?__pwa=1"
               className="hover:text-[#fe5617]"
             >
               <FaInstagram size={29} />
@@ -83,19 +83,19 @@ const Header = () => {
         {/* Social Media Links */}
         <div className="hidden lg:flex w-[100px] items-center justify-between">
           <a
-            href="https://github.com/AMOHAMMEDIMRAN"
+            href="https://www.github.com/vinothini0010"
             className="hover:text-[#fe5617]"
           >
             <FaGithub size={29} />
           </a>
           <a
-            href="https://www.linkedin.com/in/mohammedimrana/"
+            href="https://www.linkedin.com/in/vinothini-baskar-2a9357284"
             className="hover:text-[#fe5617]"
           >
             <FaLinkedin size={29} />
           </a>
           <a
-            href="https://www.instagram.com/immucoder/?__pwa=1"
+            //href="https://www.instagram.com/immucoder/?__pwa=1"
             className="hover:text-[#fe5617]"
           >
             <FaInstagram size={29} />

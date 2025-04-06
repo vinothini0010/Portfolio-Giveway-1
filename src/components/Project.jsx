@@ -7,38 +7,38 @@ const Project = () => {
           My Projects
         </h1>
 
-        {/* Project 1 and 2 in one row */}
+        {/* Project 1 and in one row */}
         <div className="flex flex-col md:flex-col gap-10">
-          {/* PetPals Project */}
+          {/* PetPals Project /}
           <div className="w-full md:w-1/2 flex flex-col items-center bg-[#F2EFE5] p-6 rounded-2xl shadow-lg">
             <h1 className="text-[#fe5617] font-extrabold text-[32px] mb-4">
               PetPals
-            </h1>
+          </h1>
             <p className="text-lg text-gray-700 mb-4">
               A MERN stack pet adoption platform where users can adopt pets,
               view profiles, and connect with animal shelters. Built using
               MongoDB, Express, React, Node.js, and styled with Tailwind CSS.
             </p>
             <a
-              href="https://petpalsss.netlify.app/login"
+              //href="https://petpalsss.netlify.app/login"
               className="text-[#fe5617] font-bold text-lg hover:underline"
             >
-              Live Demo
+              
             </a>
           </div>
 
-          {/* Biosta AI Project */}
+          {/* Biosta AI Project /}
           <div className="w-full md:w-1/2 flex flex-col place-self-end bg-[#F2EFE5] p-6 rounded-2xl shadow-lg">
             <h1 className="text-center text-[#fe5617] font-extrabold text-[32px] mb-4">
               Biosta AI
             </h1>
             <p className="text-lg text-gray-700 mb-4">
-              An AI-based platform that optimizes user bio data using the Gemini
+              An AI-based platform //that optimizes user bio data using the Gemini
               API. Developed with React.js, this app helps users to improve
               their biological data using advanced AI algorithms.
             </p>
             <a
-              href="https://biosta.netlify.app/"
+              //href="https://biosta.netlify.app/"
               className="text-[#fe5617] text-center font-bold text-lg hover:underline"
             >
               Live Demo
@@ -49,25 +49,30 @@ const Project = () => {
           {/* PetPals Project */}
           <div className="w-full md:w-1/2 flex flex-col items-center bg-[#F2EFE5] p-6 rounded-2xl shadow-lg">
             <h1 className="text-[#fe5617] font-extrabold text-[32px] mb-4">
-              Npm-Libray-Logzap
+            Bank customer churn and loan eligibility amount prediction using ML model
             </h1>
             <p className="text-lg text-gray-700 mb-4">
-            Logzap is a minimalistic utility that simplifies your JavaScript logging. Instead of cluttering your code with console.log(), just use write() to log any data in a cleaner, more readable way. Perfect for developers who want to streamline their debugging process without compromising on clarity!
+            This project focuses on predicting bank customer churn and estimating loan eligibility amounts using machine learning models.
+It analyzes customer data to identify potential churn risks and assess their loan qualification.
+Tech stack includes Python, Pandas, NumPy, and scikit-learn for model building and evaluation.
+The goal is to help banks make data-driven decisions and reduce financial risk.
+
+
             </p>
             <a
               href="https://www.npmjs.com/package/logzap"
               className="text-[#fe5617] font-bold text-lg hover:underline"
             >
-              Live Demo
+              
             </a>
           </div>
 
          
         </div>
 
-        {/* Project 3 and 4 in one row */}
+        {/*Project 3 and 4 in one row /}
         <div className="flex flex-col md:flex-col gap-10 mt-10">
-          {/* CoderLobby Project */}
+          {/* CoderLobby Project /}
           <div className="w-full md:w-1/2 flex flex-col place-self-end items-center bg-[#F2EFE5] p-6 rounded-2xl shadow-lg">
             <h1 className="text-[#fe5617] font-extrabold text-[32px] mb-4">
               CoderLobby
@@ -85,7 +90,7 @@ const Project = () => {
             </a>
           </div>
 
-          {/* Cinerate Project */}
+          {/* Cinerate Project/}
           <div className="w-full md:w-1/2 flex flex-col  bg-[#F2EFE5] p-6 rounded-2xl shadow-lg">
             <h1 className="text-center text-[#fe5617] font-extrabold text-[32px] mb-4">
               Cinerate
@@ -119,11 +124,11 @@ const Project = () => {
               href="https://weatherfixpro.netlify.app/"
               className="text-[#fe5617] font-bold text-lg hover:underline"
             >
-              Live Demo
+              
             </a>
           </div>
 
-          {/* Landing Pages Bundle */}
+          {/*Landing Pages Bundle */}
           <div className="w-full md:w-1/2 flex flex-col  bg-[#F2EFE5] p-6 rounded-2xl shadow-lg">
             <h1 className="text-center text-[#fe5617] font-extrabold text-[32px] mb-4">
               Landing Pages Bundle
@@ -134,10 +139,10 @@ const Project = () => {
               engaging layouts.
             </p>
             <a
-              href="https://github.com/AMOHAMMEDIMRAN/Amazing-Landing-Page"
+              //href="https://github.com/AMOHAMMEDIMRAN/Amazing-Landing-Page"
               className="text-center text-[#fe5617] font-bold text-lg hover:underline"
             >
-              Live Demo
+              
             </a>
           </div>
         </div>
